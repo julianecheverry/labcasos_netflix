@@ -1,0 +1,201 @@
+UserID,RegistrationDate,EndDate,DurationMonths,CancelReason,PlanType
+1,2022-08-11,2022-12-09,4,No cancellation,Standard
+2,2022-09-07,2024-02-29,18,No cancellation,Basic
+3,2022-05-27,2023-02-21,9,No cancellation,Premium
+4,2022-04-06,2024-01-26,22,No cancellation,Basic
+5,2022-09-14,2022-10-14,1,No cancellation,Basic
+6,2022-11-21,2024-03-15,16,No cancellation,Standard
+7,2022-01-04,2022-04-04,3,Lack of use,Standard
+8,2022-01-16,2023-08-09,19,Cost,Premium
+9,2022-10-07,2022-12-06,2,No cancellation,Standard
+10,2022-12-02,2024-05-25,18,No cancellation,Basic
+11,2022-09-04,2024-07-25,23,No cancellation,Standard
+12,2022-09-15,2022-10-15,1,No cancellation,Premium
+13,2022-06-09,2023-11-01,17,No cancellation,Standard
+14,2022-12-06,2024-09-26,22,Lack of use,Basic
+15,2022-06-01,2023-06-26,13,No cancellation,Basic
+16,2022-06-27,2022-09-25,3,No cancellation,Basic
+17,2022-06-12,2023-10-05,16,No cancellation,Basic
+18,2022-02-02,2022-07-02,5,Switched provider,Standard
+19,2022-06-28,2022-09-26,3,No cancellation,Basic
+20,2022-04-11,2024-01-01,21,Switched provider,Standard
+21,2022-09-25,2024-04-17,19,No cancellation,Standard
+22,2022-11-19,2023-08-16,9,No cancellation,Premium
+23,2022-03-06,2023-03-31,13,No cancellation,Standard
+24,2022-06-17,2022-07-17,1,No cancellation,Standard
+25,2022-11-26,2023-07-24,8,No cancellation,Standard
+26,2022-02-12,2022-04-13,2,No cancellation,Premium
+27,2022-02-13,2023-08-07,18,Lack of use,Standard
+28,2022-10-12,2023-10-07,12,No cancellation,Standard
+29,2022-01-12,2023-06-06,17,No cancellation,Premium
+30,2022-04-05,2024-02-24,23,Cost,Basic
+31,2022-10-29,2023-12-23,14,Cost,Premium
+32,2022-09-10,2023-04-08,7,No cancellation,Standard
+33,2022-08-30,2023-02-26,6,No cancellation,Standard
+34,2022-02-04,2023-04-30,15,No cancellation,Premium
+35,2022-08-03,2022-10-02,2,No cancellation,Standard
+36,2022-12-03,2023-01-02,1,Cost,Standard
+37,2022-03-31,2024-02-19,23,No cancellation,Basic
+38,2022-09-21,2023-02-18,5,Cost,Standard
+39,2022-04-03,2023-08-26,17,No cancellation,Basic
+40,2022-03-31,2022-05-30,2,No cancellation,Standard
+41,2022-04-25,2023-05-20,13,No cancellation,Premium
+42,2022-04-15,2023-08-08,16,No cancellation,Premium
+43,2022-07-15,2024-06-04,23,No cancellation,Premium
+44,2022-11-10,2023-10-06,11,No cancellation,Basic
+45,2022-04-24,2022-07-23,3,Lack of use,Premium
+46,2022-03-16,2023-09-07,18,No cancellation,Premium
+47,2022-08-05,2024-02-26,19,Lack of use,Standard
+48,2022-10-04,2023-07-31,10,No cancellation,Basic
+49,2022-09-06,2023-03-05,6,No cancellation,Basic
+50,2022-06-13,2023-06-08,12,No cancellation,Standard
+51,2022-12-23,2024-05-16,17,No cancellation,Basic
+52,2022-07-11,2023-04-07,9,No cancellation,Premium
+53,2022-08-15,2024-06-05,22,No cancellation,Standard
+54,2022-06-26,2023-05-22,11,Switched provider,Basic
+55,2022-04-09,2023-09-01,17,No cancellation,Basic
+56,2022-02-05,2022-10-03,8,Cost,Basic
+57,2022-04-06,2023-11-27,20,No cancellation,Premium
+58,2022-06-01,2024-03-22,22,No cancellation,Premium
+59,2022-05-31,2023-07-25,14,No cancellation,Basic
+60,2022-07-09,2023-09-02,14,No cancellation,Premium
+61,2022-08-12,2023-03-10,7,No cancellation,Premium
+62,2022-02-06,2023-04-02,14,Cost,Basic
+63,2022-09-25,2024-03-18,18,No cancellation,Premium
+64,2022-07-02,2024-01-23,19,No cancellation,Basic
+65,2022-01-13,2023-12-04,23,No cancellation,Standard
+66,2022-10-06,2023-05-04,7,No cancellation,Premium
+67,2022-08-05,2024-05-26,22,No cancellation,Basic
+68,2022-12-21,2024-05-14,17,No cancellation,Basic
+69,2022-12-27,2023-04-26,4,No cancellation,Basic
+70,2022-10-13,2023-11-07,13,No cancellation,Premium
+71,2022-09-30,2024-07-21,22,No cancellation,Basic
+72,2022-03-03,2023-02-26,12,No cancellation,Basic
+73,2022-03-25,2022-08-22,5,No cancellation,Standard
+74,2022-08-05,2022-10-04,2,No cancellation,Premium
+75,2022-12-08,2024-01-02,13,No cancellation,Basic
+76,2022-07-06,2022-08-05,1,No cancellation,Basic
+77,2022-01-19,2022-07-18,6,No cancellation,Standard
+78,2022-06-26,2023-05-22,11,No cancellation,Standard
+79,2022-04-10,2024-02-29,23,Lack of use,Premium
+80,2022-08-21,2024-03-13,19,No cancellation,Basic
+81,2022-03-17,2022-07-15,4,Switched provider,Standard
+82,2022-09-22,2022-11-21,2,No cancellation,Premium
+83,2022-10-11,2023-02-08,4,No cancellation,Standard
+84,2022-07-25,2023-12-17,17,No cancellation,Standard
+85,2022-08-11,2024-03-03,19,Lack of use,Standard
+86,2022-02-21,2023-05-17,15,No cancellation,Standard
+87,2022-12-05,2024-06-27,19,Lack of use,Basic
+88,2022-05-24,2022-11-20,6,Switched provider,Premium
+89,2022-03-10,2023-10-31,20,No cancellation,Basic
+90,2022-04-09,2023-04-04,12,No cancellation,Standard
+91,2022-01-25,2023-03-21,14,No cancellation,Basic
+92,2022-02-22,2023-01-18,11,Switched provider,Basic
+93,2022-05-31,2023-04-26,11,No cancellation,Standard
+94,2022-05-24,2023-11-15,18,No cancellation,Basic
+95,2022-02-26,2024-01-17,23,No cancellation,Standard
+96,2022-02-08,2023-03-05,13,No cancellation,Basic
+97,2022-04-19,2022-09-16,5,No cancellation,Basic
+98,2022-06-30,2023-05-26,11,No cancellation,Standard
+99,2022-02-11,2024-01-02,23,Cost,Premium
+100,2022-07-05,2023-11-27,17,Lack of use,Standard
+101,2022-08-11,2023-10-05,14,Switched provider,Premium
+102,2022-05-02,2023-01-27,9,No cancellation,Premium
+103,2022-05-13,2022-08-11,3,Switched provider,Standard
+104,2022-06-12,2023-02-07,8,Lack of use,Basic
+105,2022-08-03,2023-09-27,14,Cost,Premium
+106,2022-08-09,2024-04-30,21,No cancellation,Premium
+107,2022-08-23,2023-10-17,14,No cancellation,Basic
+108,2022-11-27,2023-12-22,13,No cancellation,Standard
+109,2022-05-26,2023-01-21,8,No cancellation,Standard
+110,2022-08-27,2024-03-19,19,No cancellation,Basic
+111,2022-03-17,2024-02-05,23,No cancellation,Basic
+112,2022-01-09,2023-06-03,17,Lack of use,Premium
+113,2022-03-15,2022-05-14,2,No cancellation,Premium
+114,2022-09-10,2023-04-08,7,No cancellation,Standard
+115,2022-08-18,2022-11-16,3,No cancellation,Standard
+116,2022-01-07,2023-08-30,20,Cost,Basic
+117,2022-06-23,2022-07-23,1,No cancellation,Premium
+118,2022-05-21,2022-09-18,4,Switched provider,Basic
+119,2022-06-17,2022-07-17,1,Cost,Premium
+120,2022-06-19,2024-05-09,23,No cancellation,Standard
+121,2022-10-10,2022-12-09,2,Cost,Premium
+122,2022-05-02,2023-02-26,10,No cancellation,Standard
+123,2022-07-13,2023-08-07,13,No cancellation,Basic
+124,2022-01-05,2023-08-28,20,No cancellation,Basic
+125,2022-01-29,2022-09-26,8,No cancellation,Premium
+126,2022-06-14,2022-10-12,4,Cost,Standard
+127,2022-12-05,2024-06-27,19,No cancellation,Standard
+128,2022-05-16,2023-04-11,11,No cancellation,Premium
+129,2022-12-31,2023-10-27,10,No cancellation,Standard
+130,2022-11-17,2023-07-15,8,No cancellation,Standard
+131,2022-12-08,2024-02-01,14,No cancellation,Standard
+132,2022-05-25,2023-06-19,13,No cancellation,Standard
+133,2022-11-23,2022-12-23,1,No cancellation,Premium
+134,2022-08-05,2023-07-31,12,No cancellation,Basic
+135,2022-10-28,2023-03-27,5,Cost,Standard
+136,2022-05-12,2023-10-04,17,No cancellation,Standard
+137,2022-10-19,2023-07-16,9,No cancellation,Basic
+138,2022-03-11,2023-05-05,14,Switched provider,Standard
+139,2022-09-09,2023-08-05,11,No cancellation,Standard
+140,2022-10-02,2023-03-01,5,Switched provider,Standard
+141,2022-12-30,2023-04-29,4,No cancellation,Basic
+142,2022-07-01,2022-07-31,1,Lack of use,Premium
+143,2022-06-16,2024-01-07,19,No cancellation,Basic
+144,2022-04-01,2023-06-25,15,No cancellation,Basic
+145,2022-07-21,2023-05-17,10,Lack of use,Basic
+146,2022-12-12,2023-09-08,9,No cancellation,Basic
+147,2022-01-19,2022-12-15,11,Switched provider,Premium
+148,2022-02-08,2023-08-02,18,No cancellation,Premium
+149,2022-05-06,2023-09-28,17,No cancellation,Premium
+150,2022-06-22,2023-06-17,12,Switched provider,Standard
+151,2022-05-21,2022-12-17,7,No cancellation,Basic
+152,2022-08-30,2022-09-29,1,No cancellation,Premium
+153,2022-08-08,2023-07-04,11,No cancellation,Standard
+154,2022-05-06,2024-01-26,21,No cancellation,Basic
+155,2022-02-27,2023-10-20,20,No cancellation,Standard
+156,2022-05-28,2024-03-18,22,No cancellation,Basic
+157,2022-11-13,2023-07-11,8,No cancellation,Basic
+158,2022-12-27,2024-01-21,13,No cancellation,Premium
+159,2022-01-01,2023-07-25,19,No cancellation,Standard
+160,2022-12-14,2024-05-07,17,No cancellation,Standard
+161,2022-07-09,2023-11-01,16,No cancellation,Standard
+162,2022-07-10,2022-08-09,1,Cost,Premium
+163,2022-11-08,2024-05-01,18,No cancellation,Basic
+164,2022-04-27,2023-10-19,18,No cancellation,Premium
+165,2022-05-14,2022-09-11,4,No cancellation,Basic
+166,2022-02-27,2024-01-18,23,Switched provider,Standard
+167,2022-02-13,2022-12-10,10,Lack of use,Standard
+168,2022-06-22,2022-07-22,1,No cancellation,Standard
+169,2022-06-09,2023-01-05,7,No cancellation,Basic
+170,2022-06-22,2024-05-12,23,No cancellation,Premium
+171,2022-11-13,2023-07-11,8,No cancellation,Premium
+172,2022-10-30,2023-03-29,5,No cancellation,Basic
+173,2022-05-29,2023-08-22,15,Cost,Premium
+174,2022-03-21,2023-05-15,14,No cancellation,Standard
+175,2022-08-01,2023-06-27,11,Switched provider,Basic
+176,2022-07-22,2024-05-12,22,No cancellation,Premium
+177,2022-09-09,2024-07-30,23,Lack of use,Premium
+178,2022-08-17,2023-06-13,10,No cancellation,Premium
+179,2022-06-13,2024-03-04,21,No cancellation,Basic
+180,2022-08-15,2024-03-07,19,No cancellation,Standard
+181,2022-05-27,2022-07-26,2,Switched provider,Basic
+182,2022-01-20,2023-09-12,20,No cancellation,Premium
+183,2022-02-16,2022-04-17,2,No cancellation,Premium
+184,2022-08-21,2023-08-16,12,Lack of use,Basic
+185,2022-11-01,2023-04-30,6,Cost,Basic
+186,2022-01-14,2022-03-15,2,Lack of use,Premium
+187,2022-05-23,2024-01-13,20,Switched provider,Basic
+188,2022-01-01,2022-10-28,10,No cancellation,Premium
+189,2022-02-23,2023-04-19,14,No cancellation,Basic
+190,2022-09-16,2024-03-09,18,No cancellation,Standard
+191,2022-05-24,2023-02-18,9,No cancellation,Basic
+192,2022-01-12,2022-08-10,7,No cancellation,Standard
+193,2022-11-26,2023-10-22,11,No cancellation,Standard
+194,2022-08-12,2023-09-06,13,No cancellation,Basic
+195,2022-09-29,2023-08-25,11,Lack of use,Basic
+196,2022-12-24,2023-10-20,10,No cancellation,Standard
+197,2022-06-05,2022-08-04,2,No cancellation,Basic
+198,2022-01-08,2022-07-07,6,Lack of use,Premium
+199,2022-05-02,2024-01-22,21,No cancellation,Basic
+200,2022-12-14,2023-06-12,6,Cost,Standard
